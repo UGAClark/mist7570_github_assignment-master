@@ -40,6 +40,7 @@ from the successful one is a lot of hard work. - Stephen King
 - Ryan D.
 - "The problem with internet quotes is that you can't always depend on their accuracy." - Abraham Lincoln, 1864
 
+>>>>>>> origin/master
 >>>>>>> Stashed changes
 
 -Katie C.
@@ -53,3 +54,6 @@ Karen L.
 
 - Joe V.
 - “That’s what I do. I drink and I know things” - Tyrion Lannister
+
+-Clark W.
+-“Sometimes I’ll start a sentence and I don’t even know where it’s going.  I just hope I find it along the way.” - Michael Scott
