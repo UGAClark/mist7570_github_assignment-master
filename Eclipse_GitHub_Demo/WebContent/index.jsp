@@ -64,6 +64,11 @@ Instructions:
   <td>V</td>
 </tr>
 
+<tr>
+	<td>Clark</td>
+	<td>W</td>
+	</tr>
+
 </table>
 
 </body>
